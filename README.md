@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ![Project preview](https://github.com/catherineisonline/minimalistic-developer-portfolio/blob/main/public/project-preview.png?raw=true)
 ![Project preview](https://github.com/catherineisonline/minimalistic-developer-portfolio/blob/main/public/project-preview-3.png?raw=true)
 ![Project preview](https://github.com/catherineisonline/minimalistic-developer-portfolio/blob/main/public/project-preview-2.png?raw=true)
@@ -32,3 +33,6 @@ This project is released under the MIT LICENSE. You can find the specific terms 
 Feel free to incorporate this project into your personal portfolio! Showcase your skills and creativity by featuring your adaptations or implementations of this project. Just make sure to follow the guidelines of the MIT License while doing so.
 
 Happy coding!
+=======
+# My-portfolio
+>>>>>>> 5c5d8b201cb2eeae4027ff95774597f9bdcd2bb1
