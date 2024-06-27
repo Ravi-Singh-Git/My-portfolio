@@ -8,7 +8,7 @@ import { useEffect } from "react";
 
 const Mainpage = () => {
   useEffect(() => {
-    document.title = "Sophia Martinez | Personal Portfolio";
+    document.title = "Ravi Singh | Personal Portfolio";
   })
   return (
     <article className="main-page">

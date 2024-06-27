@@ -1,45 +1,41 @@
 const experienceData = [
   {
     id: 1,
-    jobtitle: "Marketing Campaign Manager",
-    companyname: "InnovateX Solutions",
+    jobtitle: "job title ",
+    companyname: "company name ",
     worktype: "Full-time",
     duration: "Jan 2021 - Oct 2021",
-    location: "Tbilisi, Georgia",
+    location: "New Delhi, India",
     responsibility: [
-      `Developed and executed innovative marketing campaigns that resulted in a 20% increase in brand visibility and a 15% rise in customer engagement.`,
-      `Collaborated with cross-functional teams to create compelling content for digital and print channels, ensuring consistent brand messaging.`,
-      `Conducted market research and competitor analysis, identifying key trends and insights to refine campaign strategies.`,
-      `Utilized data analytics to measure campaign performance, adjusting tactics in real-time to maximize ROI.`,
-      `Managed a team of graphic designers and copywriters, fostering a collaborative environment and ensuring timely delivery of high-quality assets.`
+      `text text text text`,
+      `text text text text`
     ],
   },
   {
     id: 2,
-    jobtitle: "Social Media Strategist",
-    companyname: "NexaReach Marketing Agency",
+    jobtitle: "job title ",
+    companyname: "company name ",
     worktype: "Full-time",
-    duration: "Sep 2020 - Jan 2021",
-    location: "Tbilisi, Georgia",
+    duration: "Jan 2021 - Oct 2021",
+    location: "New Delhi, India",
     responsibility: [
-      `Devised and executed dynamic social media strategies across platforms, resulting in a 25% growth in follower base and a 30% boost in user engagement.`,
-      `Created engaging and shareable content, leveraging both visual and written components to enhance brand storytelling.`,
-      `Collaborated with clients to understand their unique voice and objectives, tailoring social media plans to align with their brand identity.`,
-      `Monitored social media trends and emerging platforms, recommending and implementing new strategies to keep clients ahead of the curve.`,
+      `text text text text`,
+      `text text text text`
     ],
   }
+  
 ];
 
 const educationData = [
   {
-    name: "Emerald College",
-    status: "Bachelor of Science in Computer Science",
-    year: "2021",
+    name: "Chitkara university institute of engineering and technology",
+    status: "Bachelor of Computer Application",
+    year: "2020-2023",
   },
   {
-    name: "Cityville High School",
-    status: "High School Diploma",
-    year: "2012",
+    name: "Chitkara university institute of engineering and technology",
+    status: "Master of Computer Application",
+    year: "2023-2025",
   }
 ];
 
@@ -47,17 +43,17 @@ const certificationData = [
   {
     name: "HTML and CSS in depth",
     source: "Meta",
-    date: "Issued Sept 2022 · No Expiration Date"
+    date: "Issued Sept 2024 · No Expiration Date"
   },
   {
     name: "Interactivity with JavaScript",
-    source: "University of Michigan",
-    date: "Issued Sept 2022 · No Expiration Date"
+    source: "Chitkara University",
+    date: "Issued Sept 2024 · No Expiration Date"
   },
   {
     name: "React Basics",
     source: "Meta",
-    date: "Issued Sept 2022 · No Expiration Date"
+    date: "Issued Sept 2024 · No Expiration Date"
   }
 ];
 

@@ -1,13 +1,14 @@
 const AboutMe = () => {
-  return (
-    <section>
-      <h2 className="title-font pink-text h2-tag">About Me</h2>
-      <p className="white-text p-tag">
-        Transitioning from a rich 9-year background in marketing, I'm embarking on an exciting journey as a Junior Web Developer. My diverse experience has armed me with a unique perspective that blends creativity, strategic thinking, and a deep understanding of user behavior.
-        As a passionate newcomer to the world of web development, I've harnessed my drive and determination to master the latest technologies. Through dedicated learning and hands-on projects, I've become adept in crafting seamless and engaging web experiences. My toolkit includes HTML, CSS, JavaScript, and I'm well-versed in utilizing frameworks like React to bring dynamic functionalities to life.
-        What sets me apart is not only my technical aptitude but also my marketing-honed intuition. I have an innate grasp of how design and functionality converge to create meaningful user journeys. By leveraging my marketing background, I'm able to create websites that not only look stunning but also strategically drive engagement and conversions.
-      </p>
-    </section>
-  );
-};
-export default AboutMe;
+    return (
+      <section>
+        <h2 className="title-font pink-text h2-tag">About Me</h2>
+        <p className="white-text p-tag">
+          I am a passionate and ambitious computer science professional currently pursuing a Master of Computer Application (MCA) at Chitkara University Institute of Engineering & Technology. With a strong foundation in programming and web development, I bring a diverse skill set that includes proficiency in languages such as C, C++, Java, and JavaScript, as well as expertise in modern frameworks like React JS.
+          I'm particularly interested in open-source contribution, staying current with tech trends through blogging, and challenging myself in hackathons. My certifications in Python, Ethical Hacking, and Microsoft 365 Fundamentals demonstrate my commitment to continuous learning and expanding my technical expertise.
+          Fluent in English, Hindi, and Punjabi, I am well-equipped to collaborate in diverse team environments. I am eager to apply my skills and knowledge to innovative projects and contribute to the ever-evolving field of computer science.
+        </p>
+      </section>
+    );
+  };
+  export default AboutMe;
+  

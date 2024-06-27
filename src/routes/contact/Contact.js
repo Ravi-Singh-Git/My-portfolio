@@ -4,7 +4,7 @@ import ContactForm from "./ContactForm";
 
 const Contact = () => {
   useEffect(() => {
-    document.title = "Contact | Sophia Martinez";
+    document.title = "Contact | Ravi Singh";
   })
   return (
     <article className="contact-main">

@@ -13,11 +13,11 @@ const Stack = () => {
         <li>SCSS/SASS</li>
         <li>JavaScript ES6+</li>
         <li>React.js</li>
-        <li>RESTful API</li>
         <li>Github</li>
         <li>Git</li>
         <li>Figma</li>
         <li>Visual Studio Code</li>
+        <li>Microsoft 365</li>
       </ol>
     </React.Fragment>
   );
